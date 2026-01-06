@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+streamlit
+pdfplumber
+python-dotenv
+requests
